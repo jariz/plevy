@@ -1,0 +1,9 @@
+# The URL to your bevy instance (NO TRAILING SLASH!)
+bevy_url: http://localhost:8080
+# The URL to your plex media server instance (NO TRAILING SLASH!)
+plex_url: http://localhost:32400
+# Your plex token
+# Read: https://support.plex.tv/articles/204059436-finding-an-authentication-token-x-plex-token/
+plex_token: String
+# The mount point
+mount_point: ./media
