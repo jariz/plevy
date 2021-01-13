@@ -17,6 +17,18 @@ This is mostly just a proof of concept, but could be the start of something inte
     homebrew install --cask osxfuse
     ```
 
+## TODO
+
+- [x] Add entries w/API
+- [x] List entries w/API & filesystem
+- [ ] Stream/read files
+- [ ] metadata:
+   - [ ] fanart.jpg
+   - [ ] poster.jpg
+   - [ ] FILENAME.nfo
+- [ ] Some kind of frontend
+  
+
 ## Setup/howto
 
 - Copy `config-example.yml` to `config.yml`.  
