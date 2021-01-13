@@ -23,7 +23,7 @@ This is mostly just a proof of concept, but could be the start of something inte
   Fill in your bevy/plex url's and optionally the path where you'd like your media to appear.
 - Start Plevy's backend.
   ```bash
-  cargo run --package plevy --bin plevy
+  cargo run
   ```
   Currently, no binaries are provided, so you will need a rust toolchain.
 - Add your media folder to Plex
